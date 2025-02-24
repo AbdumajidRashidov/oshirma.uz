@@ -6,11 +6,10 @@
         </div>
         <h1
             class="font-chivo text-[35px] leading-[44px] sm:text-[46px] sm:leading-[52px] md:text-heading-1 font-extrabold mb-7">
-            Whoops! That page doesn’t exist.
+            Coming Soooon!
         </h1>
-        <h4 class="font-bold font-chivo text-[14px] xl:text-heading-5 text-gray-500 mb-[70px]">The page you requested
-            could
-            not be found
+        <h4 class="font-bold font-chivo text-[14px] xl:text-heading-5 text-gray-500 mb-[70px]">We are building
+            trailblazer app for food waste management app in Uzbekistan
         </h4>
         <button type="button"> <a
                 class="flex items-center z-10 relative transition-all duration-200 group px-[22px] py-[15px] lg:px-[32px] lg:py-[22px] rounded-[50px] bg-gray-900 text-white hover:bg-gray-100 hover:text-gray-900 flex-row-reverse"
